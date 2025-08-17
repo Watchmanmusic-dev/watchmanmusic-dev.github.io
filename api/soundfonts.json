@@ -8,7 +8,7 @@
       "downloadUrl": "https://media.githubusercontent.com/media/Watchmanmusic-dev/watchmanmusic-dev.github.io/refs/heads/main/.soundfonts/SC-55.sf2",
       "size": "137 MB",
       "quality": "high",
-      "cheksum": "4443b9543798ac6b43b7defb78937e1895053c68437b32010c11d66bf34bd09c"
+      "checksum": "4443b9543798ac6b43b7defb78937e1895053c68437b32010c11d66bf34bd09c"
     },
     {
       "name": "merlin_creative(v4.15).sf2",
@@ -17,7 +17,7 @@
       "downloadUrl": "https://media.githubusercontent.com/media/Watchmanmusic-dev/watchmanmusic-dev.github.io/refs/heads/main/.soundfonts/merlin_creative(v4.15).sf2",
       "size": "22.7 MB",
       "quality": "low",
-      "cheksum": "9b710b84da95dd26e8d5b60ea766c5a97fb442cd9c241f763fd37355eaf08e26"
+      "checksum": "9b710b84da95dd26e8d5b60ea766c5a97fb442cd9c241f763fd37355eaf08e26"
     }
   ]
 }
