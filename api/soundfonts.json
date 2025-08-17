@@ -2,7 +2,7 @@
   "title": "Downloadable Soundfonts",
   "soundfonts": [
     {
-      "name": "SC-55",
+      "name": "SC-55.sf2",
       "displayName": "SC-55 HQ Sound Bank",
       "source": "https://archive.org/download/free-soundfonts-sf2-2019-04",
       "downloadUrl": "https://media.githubusercontent.com/media/Watchmanmusic-dev/watchmanmusic-dev.github.io/refs/heads/main/.soundfonts/SC-55.sf2",
@@ -11,7 +11,7 @@
       "cheksum": "4443b9543798ac6b43b7defb78937e1895053c68437b32010c11d66bf34bd09c"
     },
     {
-      "name": "merlin creative v4.15",
+      "name": "merlin_creative(v4.15).sf2",
       "displayName": "Merlin Creative Sound Bank",
       "source": "https://archive.org/download/free-soundfonts-sf2-2019-04",
       "downloadUrl": "https://media.githubusercontent.com/media/Watchmanmusic-dev/watchmanmusic-dev.github.io/refs/heads/main/.soundfonts/merlin_creative(v4.15).sf2",
