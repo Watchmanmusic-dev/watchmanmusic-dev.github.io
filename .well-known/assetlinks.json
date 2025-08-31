@@ -11,5 +11,17 @@
         "29:55:87:3D:6F:97:EF:68:8E:29:29:45:CA:CC:8A:8A:0A:55:B7:BB:A3:A5:BC:99:5B:8F:40:9C:59:0D:92:FF"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.techbeloved.hymnbook.debug",
+      "sha256_cert_fingerprints": [
+        "1E:EE:D5:9C:78:5A:18:B8:6E:A2:EE:7E:47:B0:91:87:15:9E:A8:80:01:CB:73:A6:9E:5E:8D:39:42:B7:B1:AB"
+      ]
+    }
   }
 ]
